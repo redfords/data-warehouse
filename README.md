@@ -2,6 +2,8 @@
 
 Data warehouseing for business intelligence specialization from Coursera - University of Colorado.
 
+## Contents
+
 Course 1: Database management essentials
 
 Course 2: Data warehouse concepts, design and data integration
