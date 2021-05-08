@@ -1,15 +1,16 @@
-# Data Warehousing for BI
+# Linux Shell
 
-Data warehouseing for business intelligence specialization from Coursera - University of Colorado.
+Linux shell challenges from HackerRank and TLCL.
 
 ## Contents
 
-Course 1: Database management essentials
+Part 1 - Learning the shell
+Part 2 - Configuration and the environment
+Part 3 - Common tasks and essential tools
+Part 4 - Writing shell scripts
 
-Course 2: Data warehouse concepts, design and data integration
+## Resources
 
-Course 3: Relational database support for data warehouses
+[HackerRank - Linux Shell](https://www.hackerrank.com/domains/shell)
 
-Course 4: BI concepts, tools and applications
-
-Course 5: Design and build a data warehouse for BI implementation
+[The Linux Command Line](http://linuxcommand.org/tlcl.php)
