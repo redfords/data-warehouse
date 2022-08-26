@@ -12,29 +12,9 @@ Part 3 - Common tasks and essential tools
 
 Part 4 - Writing shell scripts
 
-## Projects
-
-Part 1 - Build a Boilerplate
-
-Part 2 - Build Five Programs
-
-Part 3 - World Cup Database
-
-Part 4 - Kitty Ipsum Translator
-
-Part 5 - Bike Rental Shop
-
-Part 6 - Salon Appointment Scheduler
-
-Part 7 - Build a Castle
-
-Part 8 - Periodic Table Database
-
-Part 9 - Number Guessing Game
-
 ## Resources
 
-[HackerRank - Linux Shell](https://www.hackerrank.com/domains/shell)
+[Learning the Bash Shell](https://www.oreilly.com/library/view/learning-the-bash/0596009658/)
 
 [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
