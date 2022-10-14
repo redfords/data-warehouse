@@ -18,4 +18,8 @@ Part 4 - Writing shell scripts
 
 [The Linux Command Line](http://linuxcommand.org/tlcl.php)
 
+[Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke)
+
+[Data Science at the Command Line](https://datascienceatthecommandline.com/2e/)
+
 [FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
