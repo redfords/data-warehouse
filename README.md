@@ -22,4 +22,6 @@ Part 4 - Writing shell scripts
 
 [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/)
 
+[Explain Shell](https://explainshell.com/)
+
 [FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
