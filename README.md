@@ -24,4 +24,6 @@ Part 4 - Writing shell scripts
 
 [Explain Shell](https://explainshell.com/)
 
+[Useful Commands on Unix-like systems](https://www.oliverelliott.org/article/computing/ref_unix/)
+
 [FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
