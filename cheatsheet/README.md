@@ -1,33 +1,48 @@
-pwd
+**pwd**
+
 Print working directory 
 
-cd
+**cd**
+
 Change directory
 
-ls
+**ls**
+
 List files and directories
 
-mkdir, rmdir
+**mkdir, rmdir**
+
 Create or remove directory
 
-echo
+**echo**
+
 Print string
 
-cat, zcat, tac
+**cat, zcat, tac**
 
-cp
+
+cp**
+
 Copy file
 
-mv
+**mv**
+
 Rename file or directory
 
-rm
+**rm**
+
 Remove file
 
-shred
+**shred**
+
 Remove by overwritting then removing
 
-man
+**man**
+
 Show manual for a command
 
-head, tail
+**head, tail**
+
+**less, zless, more**
+
+**grep, egrep**
