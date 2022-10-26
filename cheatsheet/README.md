@@ -1,6 +1,8 @@
 **pwd**
 
-Print working directory 
+Print working directory.
+
+Save the current working directory in a variable with command substitution:
 
 ```
 d=$( pwd )			# save cwd
@@ -11,11 +13,20 @@ cd $d			        # go back to where the script originally started
 
 **cd**
 
-Change directory
+Change directory.
+
+```
+cd /some/path/			# move to directory
+cd				# go $HOME
+cd /				# go to root directory
+cd ..			        # move one directory back toward root
+cd -			        # cd into the previous directory
+cd ..			        # move one directory back toward root
+```
 
 **ls**
 
-List files and directories
+List files and directories.
 
 **mkdir, rmdir**
 
