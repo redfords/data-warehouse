@@ -2,6 +2,13 @@
 
 Print working directory 
 
+```
+d=$( pwd )		      # save cwd
+cd /somewhere/else	# go somewhere else
+			              # do something else
+cd $d			          # go back to where the script originally started
+```
+
 **cd**
 
 Change directory
