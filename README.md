@@ -26,4 +26,4 @@ Part 4 - Writing shell scripts
 
 [Useful Commands on Unix-like systems](https://www.oliverelliott.org/article/computing/ref_unix/)
 
-[FreeCodeCamp - Relational Database Certification](https://www.freecodecamp.org/learn/relational-database/)
+[Linux Tutorial by Oliver Elliott](https://www.oliverelliott.org/article/computing/tut_unix/)
